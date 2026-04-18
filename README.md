@@ -11,7 +11,7 @@
 - 🛠 <b>[HTML, CSS, JS]</b> Recipe, Layout, Todo 페이지 개발 (2024. 09. ~ 2024. 11.)
 - 🛠 <b>[React, Node.js]</b> 씨즌넷 페이지 개발 (2024. 11. ~ 2025. 03.)
 - 🛠 <b>[HTML, CSS, JS]</b> HTML, CSS, JS 공부 서비스 'HTML 마을을 구하라!' 개발 (2025. 03. ~ 2025. 05.)
-- 🛠 <b>[React, Next.js, Node.js]</b> AI 무드보드 제작 서비스 'Moomu' 개발 중 (2025. 05 ~ ing)
+- 🛠 <b>[Next.js, Node.js]</b> AI 무드보드 제작 서비스 'Moomu' 개발 중 (2025. 05 ~ 2025. 11)
 <br>
 
 ### 🔨 My Tech
